@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 112065535c3d0b2489ffd0eb97a80712
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276087
+  packageName: Advanced Zombie AI
+  packageVersion: 1.0.2
+  assetPath: Assets/Advanced Zombie AI/Animations/Base_Animations/Scream.anim
+  uploadId: 684220

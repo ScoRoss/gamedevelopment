@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0a9def7426633e6f89e711b4c1ada0de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192972
+  packageName: Game Ready Futuristic Soldier
+  packageVersion: 1.0
+  assetPath: Assets/futuristic-soldier/Scripts/SoldierCamera.cs
+  uploadId: 433569

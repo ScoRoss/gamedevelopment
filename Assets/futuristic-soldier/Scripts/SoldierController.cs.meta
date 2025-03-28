@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2930a85dae6743cdaa21f2f2305b3986
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192972
+  packageName: Game Ready Futuristic Soldier
+  packageVersion: 1.0
+  assetPath: Assets/futuristic-soldier/Scripts/SoldierController.cs
+  uploadId: 433569

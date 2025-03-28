@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 59f1466288725ff488d7bba5422456a4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276087
+  packageName: Advanced Zombie AI
+  packageVersion: 1.0.2
+  assetPath: Assets/Advanced Zombie AI/Prefabs/ZombieSpawner.prefab
+  uploadId: 684220

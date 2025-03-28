@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e6031551eb978e743b307c082269581f
+timeCreated: 1533745508
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125412
+  packageName: LowPoly Scifi Pistol
+  packageVersion: 1.0
+  assetPath: Assets/Pistol/Pistol.unity
+  uploadId: 260142

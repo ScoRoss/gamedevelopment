@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e5eef68fe4fecc348a16029b1a82115c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276087
+  packageName: Advanced Zombie AI
+  packageVersion: 1.0.2
+  assetPath: Assets/Advanced Zombie AI/DemoScenes/3-)FollowPlayer_Demo/FollowPlayer_Demo_Scene.unity
+  uploadId: 684220

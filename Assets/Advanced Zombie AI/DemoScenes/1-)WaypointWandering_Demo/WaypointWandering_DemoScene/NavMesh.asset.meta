@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3101f52d7ec5f8d4bb4dcea40f3cdb60
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276087
+  packageName: Advanced Zombie AI
+  packageVersion: 1.0.2
+  assetPath: Assets/Advanced Zombie AI/DemoScenes/1-)WaypointWandering_Demo/WaypointWandering_DemoScene/NavMesh.asset
+  uploadId: 684220

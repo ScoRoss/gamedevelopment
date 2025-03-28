@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 880500434b14c764cadc30803f162e8a
+timeCreated: 1533739889
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125412
+  packageName: LowPoly Scifi Pistol
+  packageVersion: 1.0
+  assetPath: Assets/Pistol/Mesh/Magazine.prefab
+  uploadId: 260142

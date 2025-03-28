@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cf93ecd36dadd6921a4b0f3d6a7ca990
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192972
+  packageName: Game Ready Futuristic Soldier
+  packageVersion: 1.0
+  assetPath: Assets/futuristic-soldier/Prefabs/camera.prefab
+  uploadId: 433569

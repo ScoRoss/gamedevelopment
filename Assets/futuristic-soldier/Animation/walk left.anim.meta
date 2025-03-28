@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 25f7555e2408f24a38acc728989f24bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192972
+  packageName: Game Ready Futuristic Soldier
+  packageVersion: 1.0
+  assetPath: Assets/futuristic-soldier/Animation/walk left.anim
+  uploadId: 433569

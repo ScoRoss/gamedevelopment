@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e2f739defbc23584d87f86950032557a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276087
+  packageName: Advanced Zombie AI
+  packageVersion: 1.0.2
+  assetPath: Assets/Advanced Zombie AI/Scripts/Player/GunScript.cs
+  uploadId: 684220
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Muzzle: {instanceID: 0}
+  - shootSound: {fileID: 8300000, guid: 204993b1d43d6be9898f89f25e072a82, type: 3}
+  - camHolderAnim: {instanceID: 0}
+  - blood: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b86d7eb47891bcc44839b485ab28d434
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276087
+  packageName: Advanced Zombie AI
+  packageVersion: 1.0.2
+  assetPath: Assets/Advanced Zombie AI/Scripts/Editor/WaypointsEditor.cs
+  uploadId: 684220

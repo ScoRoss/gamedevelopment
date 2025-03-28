@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e49a12ce2fd813a090b0b97adf92b7b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192972
+  packageName: Game Ready Futuristic Soldier
+  packageVersion: 1.0
+  assetPath: Assets/futuristic-soldier/Animation/shoot-down-1.anim
+  uploadId: 433569

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 37787f914847c4a438fd3b5fb565af83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276087
+  packageName: Advanced Zombie AI
+  packageVersion: 1.0.2
+  assetPath: Assets/Advanced Zombie AI/Scripts/Editor/ZombieSpawnerEditor.cs
+  uploadId: 684220

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb8bfbf60732d2f9da4887c1f4fc5ac1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192972
+  packageName: Game Ready Futuristic Soldier
+  packageVersion: 1.0
+  assetPath: Assets/futuristic-soldier/demo/Materials/checker.mat
+  uploadId: 433569

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5bd2bd26f73488cf1a496a11bde05590
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192972
+  packageName: Game Ready Futuristic Soldier
+  packageVersion: 1.0
+  assetPath: Assets/futuristic-soldier/Mehses/weapon.mesh
+  uploadId: 433569

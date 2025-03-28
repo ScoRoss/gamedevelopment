@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f36ae1a24f34306288da5199668d48bb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192972
+  packageName: Game Ready Futuristic Soldier
+  packageVersion: 1.0
+  assetPath: Assets/futuristic-soldier/Prefabs/weapon.prefab
+  uploadId: 433569

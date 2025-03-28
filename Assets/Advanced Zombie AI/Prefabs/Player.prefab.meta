@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c0a850b06bd5f6d42a0da2747452d81f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276087
+  packageName: Advanced Zombie AI
+  packageVersion: 1.0.2
+  assetPath: Assets/Advanced Zombie AI/Prefabs/Player.prefab
+  uploadId: 684220

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bc70aed63a85c144ba34261080444ab2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276087
+  packageName: Advanced Zombie AI
+  packageVersion: 1.0.2
+  assetPath: Assets/Advanced Zombie AI/Prefabs/Zombie-3.prefab
+  uploadId: 684220

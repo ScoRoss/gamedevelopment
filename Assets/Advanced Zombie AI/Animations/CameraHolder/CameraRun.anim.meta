@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e6f7c4b2cce65d5468fa19d2ef8fce14
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276087
+  packageName: Advanced Zombie AI
+  packageVersion: 1.0.2
+  assetPath: Assets/Advanced Zombie AI/Animations/CameraHolder/CameraRun.anim
+  uploadId: 684220

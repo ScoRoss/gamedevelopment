@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a536c053a7691c2f4b2407605b4ee124
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192972
+  packageName: Game Ready Futuristic Soldier
+  packageVersion: 1.0
+  assetPath: Assets/futuristic-soldier/Materials/soldier.mat
+  uploadId: 433569

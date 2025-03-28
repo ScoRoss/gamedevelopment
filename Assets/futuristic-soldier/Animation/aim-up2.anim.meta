@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac83dcd7d0bdd01dab895678bfef3cb2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192972
+  packageName: Game Ready Futuristic Soldier
+  packageVersion: 1.0
+  assetPath: Assets/futuristic-soldier/Animation/aim-up2.anim
+  uploadId: 433569

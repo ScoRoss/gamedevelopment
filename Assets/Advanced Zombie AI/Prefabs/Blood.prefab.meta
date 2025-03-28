@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2200d845cfcb74d40aae32c5f379cff7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276087
+  packageName: Advanced Zombie AI
+  packageVersion: 1.0.2
+  assetPath: Assets/Advanced Zombie AI/Prefabs/Blood.prefab
+  uploadId: 684220

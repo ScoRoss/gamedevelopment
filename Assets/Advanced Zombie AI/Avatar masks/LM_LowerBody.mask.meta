@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 84a09797f60da514ba6acfb74719be10
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 31900000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276087
+  packageName: Advanced Zombie AI
+  packageVersion: 1.0.2
+  assetPath: Assets/Advanced Zombie AI/Avatar masks/LM_LowerBody.mask
+  uploadId: 684220

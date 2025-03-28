@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b72ef8445af32e849b636b2d4210edb4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276087
+  packageName: Advanced Zombie AI
+  packageVersion: 1.0.2
+  assetPath: Assets/Advanced Zombie AI/Animations/AnimatorControllers/Base_ZOMBIE.controller
+  uploadId: 684220

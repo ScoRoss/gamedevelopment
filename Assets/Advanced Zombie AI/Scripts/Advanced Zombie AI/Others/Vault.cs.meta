@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bca51b57bfc6e0942ab2948181a7506c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276087
+  packageName: Advanced Zombie AI
+  packageVersion: 1.0.2
+  assetPath: Assets/Advanced Zombie AI/Scripts/Advanced Zombie AI/Others/Vault.cs
+  uploadId: 684220

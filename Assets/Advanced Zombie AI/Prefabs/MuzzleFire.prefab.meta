@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 273669ac4fd07504089aa1f1f14586ba
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276087
+  packageName: Advanced Zombie AI
+  packageVersion: 1.0.2
+  assetPath: Assets/Advanced Zombie AI/Prefabs/MuzzleFire.prefab
+  uploadId: 684220
